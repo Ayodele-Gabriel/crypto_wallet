@@ -33,7 +33,7 @@ A beautiful and robust cryptocurrency tracking application built with Flutter an
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/crypto_wallet_app.git
+git clone https://github.com/Ayodele-Gabriel/crypto_wallet.git
 cd crypto_wallet_app
 ```
 
@@ -67,7 +67,7 @@ The app uses the **CoinGecko API** (no API key required for basic tier):
 
 
 ### DELIVERABLES
-- GITHUB LINK: 
-- APK:
-- DEMO VIDEO: 
+- GITHUB LINK: https://github.com/Ayodele-Gabriel/crypto_wallet.git
+- APK: https://drive.google.com/file/d/1YxZcrkwGxPMrkrCsNjJPmu3XM1ElytQO/view?usp=sharing
+- DEMO VIDEO: https://drive.google.com/file/d/1cjI2uL6Zd72mD2SRe9P6xgW8gDatKxDi/view?usp=sharing
 
